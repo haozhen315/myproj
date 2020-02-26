@@ -1,2 +1,3 @@
-feature 1
+
+feature 1 is now no bug
 feature 2
