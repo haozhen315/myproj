@@ -1,5 +1,5 @@
 
 feature 1 is now no bug
-feature 2
 add feature 3
+deleted feature 2
 
